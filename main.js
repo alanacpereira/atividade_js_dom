@@ -35,4 +35,3 @@ mouseoutBox.onmouseout = function () {
     output.innerHTML = "Você tirou o mouse da caixa!";
     this.style.backgroundColor = "";
 };
-
